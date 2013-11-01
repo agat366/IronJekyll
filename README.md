@@ -1,4 +1,4 @@
 IronJekyll
 ==========
 
-Jekyll blog parser .NET implementation
+Jekyll blog generator .NET implementation
